@@ -1,0 +1,80 @@
+[33m94f3cab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m first commit
+[33mb89f1aa[m 	modified:   package-lock.json 	modified:   package.json 	new file:   public - Copy/Assets/images/Afrah.jpg 	new file:   public - Copy/Assets/images/Anusha.jpg 	new file:   public - Copy/Assets/images/Ashley.jpg 	new file:   public - Copy/Assets/images/Binisha.jpg 	new file:   public - Copy/Assets/images/Devadathan.jpg 	new file:   public - Copy/Assets/images/Hida.jpg 	new file:   public - Copy/Assets/images/Jumaila.jpg 	new file:   public - Copy/Assets/images/Nisar.jpg 	new file:   public - Copy/Assets/images/Rana.jpg 	new file:   public - Copy/Assets/images/Rasim.jpg 	new file:   public - Copy/Assets/images/Shahma.jpg 	new file:   public - Copy/Assets/images/Shiyas.jpg 	new file:   public - Copy/Assets/images/Vishnupriya.jpg 	new file:   public - Copy/Assets/images/dciplogo.png 	new file:   public - Copy/Assets/images/dilipsir.jpg 	new file:   public - Copy/Assets/images/vinodsir.jpg 	new file:   public - Copy/BingSiteAuth.xml 	new file:   public - Copy/placeholder.svg 	new file:   public - Copy/robots.txt 	new file:   public - Copy/sitemap.xml 	new file:   server.ts
+[33m5b063b7[m 	modified:   client/components/CitizenServices.tsx 	modified:   client/components/DcipAiChatbot.tsx 	modified:   client/pages/Index.tsx
+[33m4ddc4de[m 	modified:   client/components/About.tsx
+[33me1e11e4[m 	modified:   client/components/About.tsx
+[33m6f30ab4[m 	modified:   client/components/Team.tsx 	modified:   client/components/Testimonials.tsx
+[33m8eb91ba[m 	modified:   client/components/About.tsx
+[33mdd36dcb[m 	modified:   client/components/Layout.tsx
+[33md8df3c6[m 	modified:   client/components/About.tsx
+[33m9e07584[m 	modified:   client/components/About.tsx
+[33m6f6a803[m 	modified:   client/components/Hero.tsx
+[33m40de9b9[m 	modified:   client/components/Testimonials.tsx
+[33mf2a5db9[m 	modified:   client/components/Team.tsx
+[33ma08d258[m 	modified:   client/components/Team.tsx
+[33md6b554e[m 	modified:   client/components/CollectorSection.tsx 	modified:   client/components/Team.tsx
+[33md00f9a4[m 	modified:   client/components/CollectorSection.tsx
+[33m90589d3[m 	modified:   client/components/Layout.tsx
+[33m39c21a4[m 	modified:   client/components/Projects.tsx
+[33m10048b9[m 	new file:   client/components/ContactModal.tsx 	modified:   client/components/Faq.tsx 	new file:   client/pages/api/contact.ts
+[33m2ff7d77[m 	modified:   client/components/Faq.tsx
+[33mdaae2ce[m 	modified:   client/components/Testimonials.tsx
+[33m143fcad[m 	modified:   client/components/Apply.tsx
+[33me974eb6[m 	modified:   client/components/Apply.tsx
+[33m9836420[m 	modified:   client/components/Apply.tsx
+[33m4faf441[m 	modified:   client/components/Layout.tsx
+[33m5e001cb[m 	modified:   client/components/Faq.tsx
+[33mdf67133[m 	modified:   client/components/Team.tsx 	new file:   public/Assets/images/Ashley.jpg 	new file:   public/Assets/images/Rasim.jpg
+[33m889474f[m 	modified:   client/components/Team.tsx 	renamed:    public/Assets/images/BINISHA .jpg -> public/Assets/images/Binisha.jpg 	renamed:    public/Assets/images/jummu.jpg -> public/Assets/images/Jumaila.jpg
+[33m0b3308f[m 	modified:   client/components/About.tsx
+[33mdbfc81d[m 	modified:   client/components/CitizenServices.tsx 	modified:   client/pages/Index.tsx
+[33mbcec332[m Update lockfile
+[33m8c44380[m 	modified:   client/components/Layout.tsx
+[33md800533[m 	modified:   client/components/Team.tsx
+[33m0f381ee[m 	modified:   client/components/Team.tsx
+[33mb4e2003[m 	modified:   client/components/DcipAiChatbot.tsx 	new file:   public/Assets/images/Nisar.jpg 	new file:   public/Assets/images/Shiyas.jpg 	new file:   public/Assets/images/anusha.jpg
+[33m54077e1[m 	modified:   client/components/DcipAiChatbot.tsx
+[33m7a5aa6a[m 	modified:   client/components/DcipAiChatbot.tsx
+[33m5b7cdfe[m 	modified:   client/components/DcipAiChatbot.tsx
+[33m31636fc[m 	modified:   client/components/DcipAiChatbot.tsx
+[33ma7efe6b[m 	modified:   client/components/DcipAiChatbot.tsx
+[33m1c3332d[m 	modified:   client/components/DcipAiChatbot.tsx
+[33ma42cdd1[m 	new file:   client/components/DcipAiChatbot.tsx 	modified:   client/pages/Index.tsx 	modified:   package-lock.json 	modified:   package.json
+[33m5e127b9[m 	modified:   client/components/Team.tsx
+[33m41e14f6[m 	modified:   client/components/Team.tsx
+[33ma4f80b4[m 	modified:   index.html
+[33m4c4f7f9[m 	modified:   client/components/Layout.tsx
+[33m8e46f41[m 	modified:   client/pages/Index.tsx
+[33md844f76[m 	modified:   client/pages/Index.tsx
+[33mea53298[m 	modified:   client/components/CollectorSection.tsx
+[33m690870d[m 	modified:   client/components/CollectorSection.tsx 	new file:   public/Assets/images/dilipsir.jpg
+[33m16f40b9[m 	modified:   client/components/CollectorSection.tsx
+[33m4fe38e8[m 	modified:   client/components/CollectorSection.tsx
+[33m5f60b3b[m 	modified:   client/components/CollectorSection.tsx 	new file:   public/Assets/images/vinodsir.jpg
+[33m362099e[m 	modified:   client/components/CollectorSection.tsx
+[33m6457e70[m 	modified:   client/components/Team.tsx
+[33m20c11f3[m 	modified:   client/components/Team.tsx
+[33m5d51ebd[m 	modified:   client/components/Team.tsx
+[33m7f70b6d[m 	modified:   client/components/Team.tsx
+[33mc974069[m 	modified:   client/components/Team.tsx
+[33m5ee2afb[m 	modified:   client/components/Team.tsx
+[33m372d66d[m 	modified:   client/components/Team.tsx 	renamed:    public/Assets/images/Devadathan .jpg -> public/Assets/images/Devadathan.jpg 	renamed:    public/Assets/images/RANA .jpg -> public/Assets/images/RANA.jpg
+[33mce81ac5[m 	modified:   client/components/Team.tsx
+[33m1879ea4[m 	modified:   client/components/Team.tsx
+[33m1e9f38d[m 	renamed:    public/Assets/images/VISHNUPRIYA .jpg -> public/Assets/images/VISHNUPRIYA.jpg
+[33m31ee5ec[m 	modified:   client/components/Team.tsx
+[33m1446fcb[m 	modified:   client/components/Team.tsx
+[33m1128893[m 	modified:   client/components/Team.tsx 	new file:   public/Assets/images/Afrah.jpg 	new file:   public/Assets/images/BINISHA .jpg 	new file:   public/Assets/images/Devadathan .jpg 	new file:   public/Assets/images/Hida.jpg 	new file:   public/Assets/images/RANA .jpg 	new file:   public/Assets/images/VISHNUPRIYA .jpg 	new file:   public/Assets/images/shahma.jpg
+[33m78aa4c8[m 	modified:   public/robots.txt
+[33m8277797[m 	modified:   index.html
+[33mc0f2538[m 	modified:   index.html
+[33m0287ce9[m 	modified:   index.html
+[33md6abcd5[m 	modified:   index.html
+[33mb3859cc[m 	new file:   BingSiteAuth.xml 	new file:   public/BingSiteAuth.xml
+[33m2a84760[m 	modified:   index.html
+[33mcc31f16[m 	new file:   sitemap.xml
+[33m9ab42d5[m 	modified:   public/robots.txt
+[33m6204931[m 	new file:   public/sitemap.xml
+[33m554b8eb[m 	modified:   index.html
+[33m2a7c953[m Add Google site verification meta tag
+[33m949eb47[m Initial commit
