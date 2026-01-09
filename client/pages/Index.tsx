@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 import LoadingScreen from "../components/LoadingScreen";
 import Hero from "../components/Hero";
 import About from "../components/About";
-import Timeline from "../components/Timeline";
+// import Timeline from "../components/Timeline";
 import Team from "../components/Team";
 // import Leadership from "../components/Leadership";  ()
 // import CitizenServices from "../components/CitizenServices";  ()
@@ -65,7 +65,7 @@ export default function Index() {
       <Hero />
         <DCIPNotification />
       <About />
-      <Timeline />
+      {/* <Timeline /> */}
       <Team />
       {/* <Leadership /> */}
       {/* <CitizenServices /> */}
