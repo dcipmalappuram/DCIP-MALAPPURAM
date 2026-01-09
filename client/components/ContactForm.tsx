@@ -91,7 +91,7 @@ export default function ContactForm() {
                   icon: Phone,
                   title: "Phone",
                   content: "+91 98765 43210",
-                  link: "tel:+919876543210",
+                  link: "",
                 },
                 {
                   icon: MapPin,

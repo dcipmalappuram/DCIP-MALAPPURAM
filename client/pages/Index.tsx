@@ -27,8 +27,8 @@ const SectionLoader = () => (
 );
 
 export default function Index() {
-  const [showLoading, setShowLoading] = useState(false);
-  const [restricted, setRestricted] = useState(false);
+  const [showLoading, setShowLoading] = useState(true);
+  const [restricted, setRestricted] = useState(true);
 
   useEffect(() => {
     const key = localStorage.getItem("dcip-access-key");
