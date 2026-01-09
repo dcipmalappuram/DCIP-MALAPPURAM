@@ -107,6 +107,25 @@ export default function Hero() {
         >
           Empowering change and fostering growth through hands-on government projects
         </motion.p>
+
+        {/* Apply Now Button */}
+        <motion.div variants={itemVariants} className="flex justify-center">
+          <motion.a
+            href="https://forms.gle/9WQxp8fyfbmn8NzFA"
+            target="_blank"
+            rel="noopener noreferrer"
+            whileHover={{ scale: 1.08 }}
+            whileTap={{ scale: 0.95 }}
+            className="relative inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white rounded-full 
+                       bg-gradient-to-r from-primary via-accent to-secondary 
+                       shadow-lg shadow-primary/30 
+                       hover:shadow-xl hover:shadow-primary/40 
+                       transition-all duration-300 overflow-hidden"
+          >
+            <span className="relative z-10">Apply Now</span>
+            <span className="absolute inset-0 bg-white/10 blur-xl opacity-0 hover:opacity-100 transition-opacity duration-300"></span>
+          </motion.a>
+        </motion.div>
       </motion.div>
 
       {/* Scroll Indicator */}

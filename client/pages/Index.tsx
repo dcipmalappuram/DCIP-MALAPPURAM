@@ -10,6 +10,7 @@ import Team from "../components/Team";
 import TemporaryAccess from "../components/TemporaryAccess";
 import Testimonials from "../components/Testimonials";
 // import DcipAiChatbot from "../components/DcipAiChatbot";   ()
+import DCIPNotification from "../components/DCIPNotification";
 
 // Lazy load non-critical components
 const CollectorSection = lazy(() => import("../components/CollectorSection"));
@@ -62,6 +63,7 @@ export default function Index() {
   return (
     <Layout>
       <Hero />
+        <DCIPNotification />
       <About />
       <Timeline />
       <Team />
