@@ -102,7 +102,7 @@ export default function Apply() {
                   Expected Start Date: February 2025
                 </p>
                 <p className="text-muted-foreground">
-                  Applications will open shortly. Be among the first to apply!
+                  Applications are now open!!
                 </p>
               </div>
 
@@ -254,6 +254,25 @@ export default function Apply() {
                   </div>
                 </div>
               </div>
+
+
+{/* Apply Button */}
+<div className="pt-8 flex justify-center">
+  <a
+    href="https://forms.gle/9WQxp8fyfbmn8NzFA"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="relative inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white 
+               rounded-full bg-gradient-to-r from-primary via-accent to-secondary 
+               shadow-lg shadow-primary/30 
+               hover:shadow-xl hover:shadow-primary/40 
+               transition-all duration-300 transform hover:scale-105 active:scale-95"
+  >
+    Apply Now
+  </a>
+</div>
+
+
 
               {/* CTA */}
               {/* <div className="bg-gray-50 p-6 rounded-xl text-center">
