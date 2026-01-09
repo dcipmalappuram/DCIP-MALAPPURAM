@@ -36,7 +36,7 @@ export default function DCIPApplicationPopup() {
           {/* Header */}
           <div className="dcip-header">
             <span className="dcip-badge">
-              OFFICIAL GOVERNMENT NOTIFICATION
+              OFFICIAL NOTIFICATION
             </span>
 
             <h2 className="dcip-title">
