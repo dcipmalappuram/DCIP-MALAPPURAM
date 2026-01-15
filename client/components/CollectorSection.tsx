@@ -69,11 +69,11 @@ export default function CollectorSection() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="mailto:collector@malappuram.gov.in"
+                  href="mailto:dcmlp.ker@nic.in"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-primary/10 transition-colors text-primary font-medium"
                 >
                   <Mail size={18} />
-                  collector@malappuram.gov.in
+                 dcmlp.ker@nic.in
                 </a>
               </div>
             </div>
@@ -114,19 +114,19 @@ export default function CollectorSection() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="mailto:subc@dcip.org"
+                  href="mailto:tirrdo@yahoo.co.in"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-secondary/10 transition-colors text-secondary font-medium"
                 >
                   <Mail size={18} />
-                  coordinator@dcip.org
+                  tirrdo@yahoo.co.in
                 </a>
-                <a
-                  href="tel:+919876543210"
+                {/* <a
+                  href="tel:"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-secondary/10 transition-colors text-secondary font-medium"
                 >
                   <Phone size={18} />
-                  +91 98765 43210
-                </a>
+                  
+                </a> */}
               </div>
             </div>
           </div>
@@ -144,44 +144,41 @@ export default function CollectorSection() {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden shadow-lg">
                 <img
-                  src="/Assets/images/dilipsir.jpg"
-                  alt="Sub Collector"
+                  src="/Assets/images/Kiransir.jpg"
+                  alt="JRP"
                   className="w-full h-full object-cover"
                 />
               </div>
 
               <h3 className="text-2xl font-bold text-foreground mb-1">
-                Sub Collector
+                Junior Resource Person
               </h3>
               <p className="text-primary font-semibold mb-1">
-                DILIP K KAINIKKARA IAS
+                Kiran B
               </p>
               <p className="text-muted-foreground mb-6">
-                 Tirur
+                 
               </p>
 
               <p className="text-foreground leading-relaxed mb-6 italic">
-                "Our goal is to bridge the gap between academic learning and
-                industry demands. Through DCIP, we provide hands-on training and
-                mentorship that prepare students for successful careers in
-                technology."
+                "DEMOOOOOOOOOOOOOOOOOOOOO"
               </p>
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="mailto:subc@dcip.org"
+                  href="mailto:jrp.mlpm@gmail.com"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-secondary/10 transition-colors text-secondary font-medium"
                 >
                   <Mail size={18} />
-              
+              jrp.mlpm@gmail.com
                 </a>
-                <a
-                  href="tel:+919876543210"
+                {/* <a
+                  href="tel:"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-secondary/10 transition-colors text-secondary font-medium"
                 >
                   <Phone size={18} />
                   
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -190,7 +187,7 @@ export default function CollectorSection() {
 
 
              {/* District Collector Card */}
-          <div
+          {/* <div
             className={`glass-effect p-8 rounded-2xl overflow-hidden transition-all duration-1000 hover:shadow-2xl hover:scale-105 border border-white/40 hover:border-primary/30 ${
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
             }`}
@@ -221,15 +218,15 @@ export default function CollectorSection() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="mailto:collector@malappuram.gov.in"
+                  href="mailto:"
                   className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg hover:bg-primary/10 transition-colors text-primary font-medium"
                 >
                   <Mail size={18} />
-                  collector@malappuram.gov.in
+                 
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
         </div>
       </div>

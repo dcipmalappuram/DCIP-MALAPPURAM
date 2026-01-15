@@ -28,12 +28,12 @@ const faqs: FAQItem[] = [
     id: 6,
     question: "What is the application process?",
     answer:
-      "Any UG or PG graduates aged 20 to 30 can apply. Shortlisted candidates will be called for an interview.",
+      "Any Diploma , UG or PG graduates aged 20 to 30 can apply. Shortlisted candidates will be called for an interview.",
   },
   {
     id: 7,
     question: "Can I apply if I'm not from Malappuram?",
-    answer: "No, the internship is only open to candidates from Malappuram.",
+    answer: "Yes",
   },
   {
     id: 8,

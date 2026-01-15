@@ -14,9 +14,9 @@ import DCIPNotification from "../components/DCIPNotification";
 
 // Lazy load non-critical components
 const CollectorSection = lazy(() => import("../components/CollectorSection"));
-const HighlightsCarousel = lazy(() => import("../components/HighlightsCarousel"));
-const Projects = lazy(() => import("../components/Projects"));
-const Gallery = lazy(() => import("../components/Gallery"));
+// const HighlightsCarousel = lazy(() => import("../components/HighlightsCarousel"));
+// const Projects = lazy(() => import("../components/Projects"));
+// const Gallery = lazy(() => import("../components/Gallery"));
 // const Notifications = lazy(() => import("../components/Notifications"));
 const Faq = lazy(() => import("../components/Faq"));
 // const News = lazy(() => import("../components/News"));
@@ -74,17 +74,17 @@ export default function Index() {
         <CollectorSection />
       </Suspense>
 
-      <Suspense fallback={<SectionLoader />}>
+      {/* <Suspense fallback={<SectionLoader />}>
         <HighlightsCarousel />
-      </Suspense>
+      </Suspense> */}
 
-      <Suspense fallback={<SectionLoader />}>
+      {/* <Suspense fallback={<SectionLoader />}>
         <Projects />
-      </Suspense>
+      </Suspense> */}
 
-      <Suspense fallback={<SectionLoader />}>
+      {/* <Suspense fallback={<SectionLoader />}>
         <Gallery />
-      </Suspense>
+      </Suspense> */}
 
       {/* <Suspense fallback={<SectionLoader />}>
         <Notifications />
