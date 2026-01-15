@@ -151,7 +151,7 @@ export default function CollectorSection() {
               </div>
 
               <h3 className="text-2xl font-bold text-foreground mb-1">
-                Junior Resource Person
+                Coordinator
               </h3>
               <p className="text-primary font-semibold mb-1">
                 Kiran B
@@ -161,7 +161,7 @@ export default function CollectorSection() {
               </p>
 
               <p className="text-foreground leading-relaxed mb-6 italic">
-                "DEMOOOOOOOOOOOOOOOOOOOOO"
+                "DCIP Coordinators play a vital role in guiding interns through real-world challenges by connecting academic knowledge with practical industry exposure. Through structured mentorship, coordinators ensure quality learning, professional discipline, and career-oriented growth for every participant."
               </p>
 
               <div className="flex flex-col gap-3">
